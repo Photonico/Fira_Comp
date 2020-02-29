@@ -1,3 +1,3 @@
 # Fira Comp
 
-A customized font modification from Fira Code
+:tada: A customized font for Coding, It is modificated from Fira Code.
