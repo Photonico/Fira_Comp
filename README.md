@@ -1,2 +1,3 @@
-# Fira_Photonico
+# Fira Photonico
+
 A customized font modification from Fira Code
