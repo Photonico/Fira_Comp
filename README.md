@@ -11,7 +11,7 @@ Python:
 ![Python](https://raw.githubusercontent.com/Photonico/Fira_Comp/master/Screenshots/Python.png)
 
 
-* VSCode Theme: [Photonico Dark](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica)
+* VSCode Theme: [Photonico Dark](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica).
 
 ------
 Enjoy it!  
