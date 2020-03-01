@@ -9,3 +9,7 @@ Screenshots:
 
 Python:  
 ![Python](https://raw.githubusercontent.com/Photonico/Fira_Comp/master/Screenshots/Python.png)
+
+------
+Enjoy it!  
+✿✿ヽ(°▽°)ノ✿✿
