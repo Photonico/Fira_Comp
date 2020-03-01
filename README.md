@@ -1,6 +1,6 @@
 # Fira Comp
 
-![OFL License](https://github.com/Photonico/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/OFL-1.1)
+[![OFL License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseOFL.svg)](https://opensource.org/licenses/OFL-1.1)
 
 ![Open Source](https://github.com/Photonico/Temples/blob/master/Attachments/OpenSource.svg)
 
