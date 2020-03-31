@@ -4,14 +4,14 @@ FullName: Fira Comp Regular
 FamilyName: Fira Comp
 Weight: Regular
 Copyright: Copyright 2012-2015 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)
-Version: 0.800
+Version: 0.900
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 1638
 Descent: 410
 InvalidEm: 0
-sfntRevision: 0x0000cccd
+sfntRevision: 0x0000e667
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1568041596
-ModificationTime: 1583528925
+ModificationTime: 1583534586
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9670,7 +9670,7 @@ ShortTable: maxp 16
   3
   4
 EndShort
-LangName: 1033 "Copyright (c) 2020, The Fira Comp Project Authors (https://github.com/Photonico/Fira_Comp" "" "" "0.8;CTDB;Fira Comp Regular" "" "Version 0.800" "" "Fira Mono is a trademark of The Mozilla Corporation." "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov" "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov" "" "https://github.com/Photonico" "https://github.com/Photonico" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "Copyright (c) 2020, The Fira Comp Project Authors (https://github.com/Photonico/Fira_Comp" "" "" "0.9;CTDB;Fira Comp Regular" "" "Version 0.800" "" "Fira Mono is a trademark of The Mozilla Corporation." "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov" "Carrois Corporate, Edenspiekermann AG, Nikita Prokopov" "" "https://github.com/Photonico" "https://github.com/Photonico" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
 OtfFeatName: 'ss01' 1033 "Sans serif lowercase r"
 OtfFeatName: 'ss02' 1033 "Less Than/Greater Than with horizontal bar"
@@ -9687,7 +9687,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 51 17
+WinInfo: 408 51 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 645279 322639 215093 566231 -1048576 215093 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -11442,6 +11442,7 @@ SplineSet
  800 -24 800 -24 659 -24 c 0,31,0
  485 -24 485 -24 359 59.5 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Gbreve
@@ -11455,6 +11456,7 @@ LayerCount: 2
 Fore
 Refer: 38 71 N 1 0 0 1 0 0 0
 Refer: 1695 -1 N 1 0 0 1 61 0 0
+Validated: 1
 EndChar
 
 StartChar: Gcircumflex
@@ -11468,6 +11470,7 @@ LayerCount: 2
 Fore
 Refer: 38 71 N 1 0 0 1 0 0 0
 Refer: 1698 -1 N 1 0 0 1 63 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0122
@@ -11481,6 +11484,7 @@ LayerCount: 2
 Fore
 Refer: 38 71 N 1 0 0 1 0 0 0
 Refer: 1675 806 N 1 0 0 1 1324 0 0
+Validated: 1
 EndChar
 
 StartChar: Gdotaccent
@@ -11494,6 +11498,7 @@ LayerCount: 2
 Fore
 Refer: 38 71 N 1 0 0 1 0 0 0
 Refer: 1700 -1 N 1 0 0 1 64 0 0
+Validated: 1
 EndChar
 
 StartChar: H
@@ -13471,6 +13476,7 @@ SplineSet
  971 425 971 425 971 722 c 256,49,38
  971 1019 971 1019 890 1168 c 128,-1,39
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: R
@@ -13505,6 +13511,7 @@ SplineSet
  934 895 934 895 934 1041 c 0,22,14
  934 1178 934 1178 854.5 1239.5 c 128,-1,15
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Racute
@@ -13518,6 +13525,7 @@ LayerCount: 2
 Fore
 Refer: 89 82 N 1 0 0 1 0 0 0
 Refer: 1694 -1 N 1 0 0 1 5 0 0
+Validated: 1
 EndChar
 
 StartChar: Rcaron
@@ -13531,6 +13539,7 @@ LayerCount: 2
 Fore
 Refer: 89 82 N 1 0 0 1 0 0 0
 Refer: 1696 -1 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0156
@@ -13544,6 +13553,7 @@ LayerCount: 2
 Fore
 Refer: 89 82 N 1 0 0 1 0 0 0
 Refer: 1693 -1 N 1 0 0 1 1257 0 0
+Validated: 1
 EndChar
 
 StartChar: S
@@ -18440,6 +18450,7 @@ SplineSet
  771 1106 l 1,21,-1
  771 140 l 1,12,-1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 276 subtable" i.salt_low
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" i.loclTRK
 Substitution2: "'locl' Localized Forms in Latin lookup 20 subtable" i.loclTRK
@@ -19141,6 +19152,7 @@ SplineSet
  935 1106 l 1,23,-1
  935 177 l 2,12,13
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 276 subtable" j.salt_low
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" j.salt_low
 EndChar
@@ -21156,6 +21168,7 @@ SplineSet
  814 1130 814 1130 958 1130 c 0,23,0
  1001 1130 1001 1130 1036.5 1124.5 c 128,-1,1
 EndSplineSet
+Validated: 1
 Substitution2: "'ss01' Style Set 1 lookup 173 subtable" r.ss01
 Substitution2: "'salt' Stylistic Alternatives lookup 172 subtable" r.ss01
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" r.ss01
@@ -21172,6 +21185,7 @@ LayerCount: 2
 Fore
 Refer: 226 114 N 1 0 0 1 0 0 0
 Refer: 1679 180 N 1 0 0 1 64 0 0
+Validated: 1
 EndChar
 
 StartChar: rcaron
@@ -21185,6 +21199,7 @@ LayerCount: 2
 Fore
 Refer: 226 114 N 1 0 0 1 0 0 0
 Refer: 1681 711 N 1 0 0 1 64 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0157
@@ -21198,6 +21213,7 @@ LayerCount: 2
 Fore
 Refer: 226 114 N 1 0 0 1 0 0 0
 Refer: 1675 806 N 1 0 0 1 1112 0 0
+Validated: 1
 EndChar
 
 StartChar: s
@@ -32932,6 +32948,7 @@ AnchorPoint: "Anchor-2" 694 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 38 71 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni050E
@@ -33523,6 +33540,7 @@ AnchorPoint: "Anchor-2" 630 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 88 81 N 1 0 0 1 0 0 0
+Validated: 5
 EndChar
 
 StartChar: uni051C
@@ -37156,6 +37174,7 @@ AnchorPoint: "Anchor-2" 630 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 105 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0457
@@ -37182,6 +37201,7 @@ AnchorPoint: "Anchor-2" 0 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 191 106 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni045B
@@ -46774,6 +46794,7 @@ SplineSet
  1105 1287 l 1,15,-1
  447 1287 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni03DE
@@ -53748,6 +53769,7 @@ AnchorPoint: "Anchor-4" 0 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 191 106 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni03F5
@@ -137339,6 +137361,7 @@ SplineSet
  0 1890 l 1,4,-1
  1050 630 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniE0B1
@@ -137398,6 +137421,7 @@ SplineSet
  1310 -630 l 1,4,-1
  1260 -630 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniE0B3
